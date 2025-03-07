@@ -11,8 +11,9 @@ Bienvenue dans la documentation du projet de rail de travelling. Ce site a pour 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
 
 ## À propos du Projet
-
 Décrivez ici en quelques lignes l'objectif et l'aperçu général de votre projet. Quel est son but ? À qui est-il destiné ? Quels problèmes cherche-t-il à résoudre ?
+Ce projet consiste à concevoir et fabriquer un rail de travelling motorisé destiné au médiaLab. Il permettra de réaliser des prises de vue fluides et dynamiques, essentielles pour des productions audiovisuelles professionnelles.
+
 
 ## Poster
 
