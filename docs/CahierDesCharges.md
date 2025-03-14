@@ -20,7 +20,7 @@ Détection et suivi de mouvement d'un objet précis.
 
 4 - Description fonctionnelle des besoins
 
-| **Fonction 1 : ** |          Support adaptatif                            |
+| **Fonction 1 :** |          Support adaptatif                            |
 |------------------------------------|--------------------------------------|
 | **Objectif**                      | Réaliser un support de caméra universel. |
 | **Description**                    | Le support doit être réalisé de sorte que n’importe quelle caméra puisse s’installer sur le rail. Pouvoir visser la caméra afin d’assurer une stabilité. |
