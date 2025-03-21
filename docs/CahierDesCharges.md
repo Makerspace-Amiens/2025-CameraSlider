@@ -7,15 +7,19 @@ title: Cahier des charges
 # Cahier des charges 
 **1- Contexte et définition du projet**
 
-Passionnés de photographie et vidéo, ce projet nous a tout de suite semblé inévitable. Le travelling est une technique de plan important dans le cinéa et le rail de travelling permet d'innover dans notre façon de filmer. Le rail de travelling aura pour objectif d'être utilisé au MediaLab d'Unilasalle Amiens. 
+Passionnés de photographie et vidéo, ce projet nous a tout de suite semblé inévitable. Le travelling est une technique de plan important dans le cinéma et le rail de travelling permet d'innover dans notre façon de filmer. Le rail de travelling aura pour objectif d'être utilisé au MediaLab d'Unilasalle Amiens. 
 
 **2 - Objectif du projet**
 
-l'objectif du projet est de faire de ce rail, un rail polyvalent et utilisable dans plusieurs contexte :
-    - Rail 1m20
-    - Utilisable pour tout type de caméra
-    facile d'utilisation
-    Développement d'un système de commande à distance
+L'objectif du projet est de rendre ce rail polyvalent et utilisable dans divers contextes.
+
+- Rail 1m20
+
+- Utilisable pour tout type de caméra
+
+- facile d'utilisation
+
+- Développement d'un système de commande à distance
 
 **3 - Périmètre du projet** 
 
@@ -34,10 +38,10 @@ Détection et suivi de mouvement d'un objet précis.
 |------------------------------------|--------------------------------------|
 | **Objectif**                      | Déplacement grâce au téléphone via le Bluetooth |
 | **Description**                    | Application connectée par Bluetooth permettant de gégrer le déplacement de la caméra sur le rail. |
-| **Contraintes**                    | ntégration du système Bluetooth relié au rail. |
+| **Contraintes**                    | Intégration du système Bluetooth relié au rail. |
 | **Niveau de priorité**             | Haute priorité. |
 
-| **Fonction 3 :** |          Développement d'un plugin de commande système OBS           |
+| **Fonction 3 :** |          Développement d'un plug in de commande système OBS           |
 |------------------------------------|--------------------------------------|
 | **Objectif**                      | Automatisation des déplacements du rai de travelling grâce à des raccourcis de scènes OBS (Depuis un stream Deck ?) |
 | **Description**                    | Un plug in OBS permettant de géer un type de déplacement (en avant, en arrière, de X centimètre, à une vitesse Y) uniquement grâce à un raccourci déini en amont sur OBS. |
