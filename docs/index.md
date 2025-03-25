@@ -6,15 +6,15 @@ title: Accueil
 
 # Bienvenue sur notre documentation
 
-Bienvenue dans la documentation du projet de rail de travelling. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Bienvenue dans la documentation du projet de rail de traveling. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
 
 ## À propos du Projet
-Ce projet vise à concevoir et fabriquer un **rail de travelling motorisé** destiné au **MédiaLab**, ou dans d'autres domaines comme le **cinéma** ou la **prise de vidéo amateur**.  
+Ce projet vise à concevoir et fabriquer un **rail de traveling motorisé** destiné au **MédiaLab**, ou dans d'autres domaines comme le **cinéma** ou la **prise de vidéo amateur**.  
 Cet équipement permettra d'améliorer la qualité des productions audiovisuelles en offrant des mouvements de caméra **précis, fluides et reproductibles**.  
 
-Un **rail de travelling motorisé** permet :  
+Un **rail de traveling motorisé** permet :  
 - D'obtenir des **mouvements fluides et stabilisés**, sans à-coup.  
 - De **faciliter la répétition d’un mouvement**, utile pour les effets visuels et les prises de vue synchronisées.  
 - D’**automatiser certaines prises**, améliorant ainsi la qualité des vidéos.  

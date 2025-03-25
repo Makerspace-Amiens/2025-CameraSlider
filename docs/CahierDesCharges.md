@@ -7,7 +7,7 @@ title: Cahier des charges
 # Cahier des charges 
 **1- Contexte et définition du projet**
 
-Passionnés de photographie et vidéo, ce projet nous a tout de suite semblé inévitable. Le travelling est une technique de plan important dans le cinéma et le rail de travelling permet d'innover dans notre façon de filmer. Le rail de travelling aura pour objectif d'être utilisé au MediaLab d'Unilasalle Amiens. 
+Passionnés de photographie et vidéo, ce projet nous a tout de suite semblé inévitable. Le traveling est une technique de plan important dans le cinéma et le rail de traveling permet d'innover dans notre façon de filmer. Le rail de traveling aura pour objectif d'être utilisé au MediaLab d'Unilasalle Amiens. 
 
 **2 - Objectif du projet**
 
@@ -43,7 +43,7 @@ Détection et suivi de mouvement d'un objet précis.
 
 | **Fonction 3 :** |          Développement d'un plug in de commande système OBS           |
 |------------------------------------|--------------------------------------|
-| **Objectif**                      | Automatisation des déplacements du rai de travelling grâce à des raccourcis de scènes OBS (Depuis un stream Deck ?) |
+| **Objectif**                      | Automatisation des déplacements du rail de traveling grâce à des raccourcis de scènes OBS (Depuis un stream Deck ?) |
 | **Description**                    | Un plug in OBS permettant de géer un type de déplacement (en avant, en arrière, de X centimètre, à une vitesse Y) uniquement grâce à un raccourci déini en amont sur OBS. |
 | **Contraintes**                    | Le temps de développement et les compétences actuelles pour développer cela. |
 | **Niveau de priorité**             | Faible priorité. |
