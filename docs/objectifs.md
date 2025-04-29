@@ -6,7 +6,7 @@ title: Projets déjà existant
 
 # Projets déjà existant
 
-Le projet de rail de traveling n’est pas une nouveauté, car il en existe déjà plusieurs modèles. C'est pourquoi, avant de commencer toute modélisation, nous avons étudié les projets existants. Cette analyse nous a permis d’identifier les éléments que nous souhaitions conserver et ceux que nous devions modifier pour mieux correspondre à notre vision et aux besoins du MédiaLab.
+Le projet de rail de travelling n’est pas une nouveauté, car il en existe déjà plusieurs modèles. C'est pourquoi, avant de commencer toute modélisation, nous avons étudié les projets existants. Cette analyse nous a permis d’identifier les éléments que nous souhaitions conserver et ceux que nous devions modifier pour mieux correspondre à notre vision et aux besoins du MédiaLab.
 
 **Analyse des différentes solutions existantes**
 

@@ -7,7 +7,7 @@ title: Cahier des charges
 # Cahier des charges 
 **1- Contexte et définition du projet**
 
-Passionnés de photographie et vidéo, ce projet nous a tout de suite semblé inévitable. Le traveling est une technique de plan important dans le cinéma et le rail de traveling permet d'innover dans notre façon de filmer. Le rail de traveling aura pour objectif d'être utilisé au MediaLab d'Unilasalle Amiens. 
+Passionnés de photographie et vidéo, ce projet nous a tout de suite semblé inévitable. Le travelling est une technique de plan important dans le cinéma et le rail de travelling permet d'innover dans notre façon de filmer. Le rail de travelling aura pour objectif d'être utilisé au MediaLab d'Unilasalle Amiens. 
 
 **2 - Objectif du projet**
 
