@@ -14,11 +14,11 @@ Nous avons choisi un rail profilé en aluminium de 1,20 mètre, car cette longue
 Les roues V-Slot ont été retenues car elles sont spécialement conçues pour s'adapter aux rainures en "V" des rails profilés en aluminium que nous utilisons.
 Nous avons choisi d'en installer trois (et non quatre), pour plusieurs raisons :
 
-    - Réduction des frottements : avec trois roues, le contact avec le rail est optimal et il y a moins de risques de désalignement ou de blocage.
+- Réduction des frottements : avec trois roues, le contact avec le rail est optimal et il y a moins de risques de désalignement ou de blocage.
 
-    - Meilleure facilité de réglage : cela simplifie l'ajustement du plateau roulant, car trois points définissent toujours un plan stable (contrairement à quatre qui peuvent générer du jeu ou des tensions mécaniques).
+- Meilleure facilité de réglage : cela simplifie l'ajustement du plateau roulant, car trois points définissent toujours un plan stable (contrairement à quatre qui peuvent générer du jeu ou des tensions mécaniques).
 
-    - Montage plus simple et fluide, particulièrement adapté à une structure légère comme celle que nous construisons.
+- Montage plus simple et fluide, particulièrement adapté à une structure légère comme celle que nous construisons.
 
 **ESP-WROOM-32**
 Nous avons opté pour le microcontrôleur ESP-WROOM-32 car il est disponible à l'école et dispose de fonctionnalités sans fil intégrées, notamment le Bluetooth.
@@ -29,11 +29,11 @@ Nous utilisons l’application RemoteXY, qui permet de créer une interface de c
 Nous avons choisi un moteur pas à pas NEMA 17 (modèle 17HE15-1504S) pour motoriser le déplacement du chariot sur le rail.
 Ce moteur offre plusieurs avantages :
 
-    - Précision de mouvement : il fonctionne par pas fixes, ce qui permet un contrôle très précis de la position et de la vitesse.
+- Précision de mouvement : il fonctionne par pas fixes, ce qui permet un contrôle très précis de la position et de la vitesse.
 
-    - Couple suffisant : d'après nos calculs nous avons besoin d'un couple de 45 Ncm, celui du Nema 17 est de 42Ncm. Cependant pour l'utilisation que nous allons faire du moteur, celui-ci devrait être suffisant.
+- Couple suffisant : d'après nos calculs nous avons besoin d'un couple de 45 Ncm, celui du Nema 17 est de 42Ncm. Cependant pour l'utilisation que nous allons faire du moteur, celui-ci devrait être suffisant.
 
-    - Compatibilité courante : le NEMA 17 est un format très répandu, ce qui facilite son intégration mécanique et électrique avec les pièces imprimées ou standards.
+- Compatibilité courante : le NEMA 17 est un format très répandu, ce qui facilite son intégration mécanique et électrique avec les pièces imprimées ou standards.
 
 Grâce à ce moteur, le système peut effectuer des mouvements fluides, linéaires et répétables, ce qui est essentiel pour obtenir des plans de travelling professionnels.
 
@@ -41,12 +41,12 @@ Grâce à ce moteur, le système peut effectuer des mouvements fluides, linéair
 Pour piloter le moteur pas à pas, nous utilisons un driver TMC2209, reconnu pour son silence de fonctionnement et sa haute précision.
 Les avantages que nous avons retenus :
 
-    - Mode de pilotage silencieux : idéal pour un usage en environnement audiovisuel où le bruit est un problème.
+- Mode de pilotage silencieux : idéal pour un usage en environnement audiovisuel où le bruit est un problème.
 
-    - Prise en charge du microstepping : permet des mouvements ultra-fluides et précis, en subdivisant chaque pas moteur en micro-pas.
+- Prise en charge du microstepping : permet des mouvements ultra-fluides et précis, en subdivisant chaque pas moteur en micro-pas.
 
-    - Faible échauffement : gestion intelligente du courant, ce qui évite la surchauffe du moteur et du driver.
+- Faible échauffement : gestion intelligente du courant, ce qui évite la surchauffe du moteur et du driver.
 
-    - Communication UART : possibilité de configurer dynamiquement certains paramètres depuis l'ESP32, pour plus de flexibilité dans le code.
+- Communication UART : possibilité de configurer dynamiquement certains paramètres depuis l'ESP32, pour plus de flexibilité dans le code.
 
 Ce driver est donc parfaitement adapté pour notre usage, car il combine performance, fiabilité et silence, ce qui est indispensable pour un système de travelling utilisé en tournage.
