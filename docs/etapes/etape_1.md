@@ -7,24 +7,27 @@ nav_order: 1
 
 # Préparation des Matériaux
 
-Cette section décrit la première étape du processus de fabrication : la préparation des matériaux.
+Dans cette partie vous pouvez trouver la liste des matériaux utilisés pour la construction de notre rail, ainsi que les pièces que nous avons modélisés sur le logiciel **Onshape**. 
 
 ## Liste des Matériaux
 
-- Matériau A
-- Matériau B
-- Outils nécessaires
+Les pièces suivantes ont été modélisées sur Onshape pour répondre aux besoins spécifiques du projet :
+- Une carte **ESP-WROOM-32**
+- Un rail profilé de **1m20**
+- Une courroie de 4m
+- 3 roues **V-Slot** 
+- Un moteur pas à pas **17HE15-1504S**
+- Un driver **TMC2209**
+- Une alimentation secteur 
 
-## Procédure de Préparation
+## Modélisation 3D
+Les pièces suivantes ont été modélisées sur Onshape pour répondre aux besoins spécifiques du projet :
+    - Les pieds : pour stabiliser le rail et le suréléver légèrement.
+    - un carther de fin de rail : pour protéger le mécanisme et éviter un déraillement. 
+    - Un plateau universel : permettant de fixer différents modèles de caméras ou de supports.
 
-1. **Nettoyage** : Nettoyez tous les matériaux pour enlever la poussière et les débris.
-2. **Découpe** : Découpez les matériaux A et B selon les dimensions spécifiées.
-3. **Prétraitement** : Appliquez un traitement de surface si nécessaire.
+Toutes les pièces seront imprimées en 3D. 
 
-## Conseils de Sécurité
-
-- Portez toujours l'équipement de protection individuelle.
-- Suivez les instructions de sécurité des outils utilisés.
 
 ---
 
