@@ -45,8 +45,8 @@ Les avantages que nous avons retenus :
 
     - Prise en charge du microstepping : permet des mouvements ultra-fluides et précis, en subdivisant chaque pas moteur en micro-pas.
 
-     - Faible échauffement : gestion intelligente du courant, ce qui évite la surchauffe du moteur et du driver.
+    - Faible échauffement : gestion intelligente du courant, ce qui évite la surchauffe du moteur et du driver.
 
-     - Communication UART : possibilité de configurer dynamiquement certains paramètres depuis l'ESP32, pour plus de flexibilité dans le code.
+    - Communication UART : possibilité de configurer dynamiquement certains paramètres depuis l'ESP32, pour plus de flexibilité dans le code.
 
 Ce driver est donc parfaitement adapté pour notre usage, car il combine performance, fiabilité et silence, ce qui est indispensable pour un système de travelling utilisé en tournage.
