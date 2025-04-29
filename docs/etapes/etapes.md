@@ -7,7 +7,8 @@ has_children: true
 
 # Étapes de Fabrication
 
-Bienvenue dans la section dédiée aux étapes de fabrication du projet de rail de traveling. Ici, vous trouverez des guides détaillés pour chaque étape du processus de fabrication.
+Dans cette partie, vous trouverez les différentes étapes à suivre pour fabriquer le **rail de travelling motorisé**.
+Veuillez suivre les étapes dans l'ordre afin de garantir un montage correct et complet, et pour éviter toute omission ou erreur durant l'assemblage. Chaque étape est accompagnée d'instructions claires et, si possible, de visuels.
 
 ## Aperçu des Étapes
 
