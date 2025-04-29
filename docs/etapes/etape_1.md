@@ -22,9 +22,9 @@ Les pièces suivantes ont été modélisées sur Onshape pour répondre aux beso
 
 ## Modélisation 3D
 Les pièces suivantes ont été modélisées sur Onshape pour répondre aux besoins spécifiques du projet :
-    - Les pieds : pour stabiliser le rail et le suréléver légèrement.
-    - un carther de fin de rail : pour protéger le mécanisme et éviter un déraillement. 
-    - Un plateau universel : permettant de fixer différents modèles de caméras ou de supports.
+- Les pieds : pour stabiliser le rail et le suréléver légèrement.
+- un carther de fin de rail : pour protéger le mécanisme et éviter un déraillement. 
+- Un plateau universel : permettant de fixer différents modèles de caméras ou de supports.
 
 Toutes les pièces seront imprimées en 3D. 
 
