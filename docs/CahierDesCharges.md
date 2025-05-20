@@ -6,26 +6,32 @@ title: Cahier des charges
 
 # Cahier des charges 
 **1- Contexte et définition du projet**
+À UniLaSalle Amiens, et plus précisément dans le Makerspace, se trouve une salle dédiée à la production audiovisuelle : le MédiaLab. Cette salle dispose de caméras fixes permettant de réaliser des captations simples.
+Afin d’offrir plus de flexibilité dans les mouvements de caméra, l'idée de concevoir un rail de travelling motorisé a été proposée.
 
-Passionnés de photographie et vidéo, ce projet nous a tout de suite semblé inévitable. Le travelling est une technique de plan important dans le cinéma et le rail de travelling permet d'innover dans notre façon de filmer. Le rail de travelling aura pour objectif d'être utilisé au MediaLab d'Unilasalle Amiens. 
+C’est dans ce cadre que notre projet prend forme : concevoir un système de travelling motorisé, facile d’utilisation, et accessible à tous les utilisateurs du MédiaLab.
 
 **2 - Objectif du projet**
 
 L'objectif du projet est de rendre ce rail polyvalent et utilisable dans divers contextes.
 
-- Rail 1m20
+- <u>Rail 1m20 :</u> Nous avons choisi une longueur de 1,20 mètre, car elle correspond à la taille d’un bureau standard. Cela permet une installation simple, sans encombrement, tout en étant suffisant pour effectuer des mouvements de caméra significatifs.
+L’utilisateur pourra définir le parcours exact que suivra la caméra sur ce rail.
 
-- Utilisable pour tout type de caméra
+- <u>Compatibilité avec différents types de caméras :</u> Utilisable pour tout type de caméra disponible dans le médiaLab
 
-- facile d'utilisation
+- <u>Simplicité d'utilisation :</u> L’un des enjeux majeurs du projet est l’accessibilité.
+Le rail doit pouvoir être utilisé sans formation technique préalable. L’interface de commande est intuitive, et le système ne nécessite aucune connaissance particulière en électronique ou en programmation.
 
-- Développement d'un système de commande à distance
+- <u>Système de commande à distance :</u>  Le contrôle du rail se fait à distance via un smartphone, grâce à l’application RemoteXY.
 
-**3 - Périmètre du projet** 
+    Il suffit de télécharger l’application (disponible sur Android et iOS).
 
-Détection et suivi de mouvement d'un objet précis.
+    Une fois connectée au microcontrôleur via Bluetooth, l’interface présente des boutons directionnels (gauche/droite) ainsi qu’une barre de réglage de la vitesse du moteur.
 
-**4 - Description fonctionnelle des besoins**
+    Cela permet un pilotage en temps réel, simple et efficace. 
+
+**3 - Description fonctionnelle des besoins**
 
 | **Fonction 1 :** |          Support adaptatif                            |
 |------------------------------------|--------------------------------------|
@@ -48,9 +54,9 @@ Détection et suivi de mouvement d'un objet précis.
 | **Contraintes**                    | Le temps de développement et les compétences actuelles pour développer cela. |
 | **Niveau de priorité**             | Faible priorité. |
 
-**5 - Enveloppe budgétaire**
+**4 - Enveloppe budgétaire**
 - 250 euros de budget 
 - Matériel fourni par le Makerspace
 
-**6 - Délais de réalisation**
+**5 - Délais de réalisation**
 - 75h de projet jusqu'au mois de juin 

@@ -7,6 +7,7 @@ title: Accueil
 # Bienvenue sur notre documentation
 
 Bienvenue dans la documentation du projet de rail de travelling. Ce site a pour but de fournir toutes les informations nécessaires pour comprendre, utiliser et reproduire efficacement notre projet.
+Passionnés de photographie et vidéo, ce projet nous a tout de suite semblé inévitable. Le travelling est une technique de plan important dans le cinéma et le rail de travelling permet d'innover dans notre façon de filmer. Le rail de travelling aura pour objectif d'être utilisé au MediaLab d'Unilasalle Amiens. 
 
 ![Illustration vectorielle colorée avec un fond blanc, montrant un atelier équipé pour un projet de conception mécanique, électronique et informatique](images/illustration.png)
 
