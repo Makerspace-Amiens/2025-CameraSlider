@@ -16,6 +16,7 @@ Le projet de rail de travelling n’est pas une nouveauté, car il en existe dé
 <u>Rail manuel :</u> notre objectif étant de construire un rail motorisé, nous avons rapidement ecarté cette solution, qui demande l'intervention constante de l'utilisateur du rail.
  
 <u>Rail suspendu :</u> cette solution nous a paru dans un premier temps intéressante, cependant il y avait un problème majeur : la seule prise de vue possible était le haut de la tête des utilisateurs. Hors nous voulons pouvoir filmer à hauteur de l'utilisateur. C'est pourquoi nous avons finalement écarté cette possibilitée.
+
 ![Texte alternatif](images/rail_suspendu.jpg) 
 
 Bien que nous ayons garder aucun de ces rails, nous nous sommes un peu renseigner sur chacun. 
