@@ -11,7 +11,7 @@ Le projet de rail de travelling n’est pas une nouveauté, car il en existe dé
 **Analyse des différentes solutions existantes**
 
 <u>Rail circulaire :</u> Bien que intéressante cette solution ne nous semblait pas adapté à l’utilisation prévue au MédiaLab. Cela implique un mouvement rotatif qui ne correspondait pas à nos besoins.
-(images/rail_circulaire.jpg)
+![Texte alternatif](images/rail_circulaire.jpg)
 
 <u>Rail manuel :</u> notre objectif étant de construire un rail motorisé, nous avons rapidement ecarté cette solution, qui demande l'intervention constante de l'utilisateur du rail.
  
