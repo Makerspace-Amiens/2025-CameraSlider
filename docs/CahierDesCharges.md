@@ -6,6 +6,7 @@ title: Cahier des charges
 
 # Cahier des charges 
 **1- Contexte et définition du projet**
+
 À UniLaSalle Amiens, et plus précisément dans le Makerspace, se trouve une salle dédiée à la production audiovisuelle : le MédiaLab. Cette salle dispose de caméras fixes permettant de réaliser des captations simples.
 Afin d’offrir plus de flexibilité dans les mouvements de caméra, l'idée de concevoir un rail de travelling motorisé a été proposée.
 
@@ -33,21 +34,28 @@ Le rail doit pouvoir être utilisé sans formation technique préalable. L’int
 
 **3 - Description fonctionnelle des besoins**
 
-| **Fonction 1 :** |          Support adaptatif                            |
+| **Fonction 1 :** |          Déplacer une caméra                            |
 |------------------------------------|--------------------------------------|
-| **Objectif**                      | Réaliser un support de caméra universel. |
-| **Description**                    | Le support doit être réalisé de sorte que n’importe quelle caméra puisse s’installer sur le rail. Pouvoir visser la caméra afin d’assurer une stabilité. |
-| **Contraintes**                    | Avoir un support assez robuste, résistant, simple et rapide d’utilisation. |
+| **Objectif**                      | Réaliser un rail de travelling qui peut se déplacer |
+| **Description**                    | Le rail doit pouvoir se déplacer horizontalement |
+| **Contraintes**                    | Avoir un déplacement fluide |
+| **Niveau de priorité**             | Très haute priorité. |
+
+| **Fonction 2 :** |          Support adaptatif                           |
+|------------------------------------|--------------------------------------|
+| **Objectif**                      | réaliser un support de caméra universel |
+| **Description**                    |Le support doit être réaliser de sorte que n'importe quelle caméra du Médialab puisse s'installer sur le rail. Pouvoir visser la caméra afin d'assurer une stabilité. |
+| **Contraintes**                    | Avoir un support assez robuste, résistant, simple et rapide d'utilisation |
 | **Niveau de priorité**             | Haute priorité. |
 
-| **Fonction 2 :** |          Programmation des déplacements                            |
+| **Fonction 3 :** |          Programmation des déplacements          |
 |------------------------------------|--------------------------------------|
-| **Objectif**                      | Déplacement grâce au téléphone via le Bluetooth |
-| **Description**                    | Application connectée par Bluetooth permettant de gégrer le déplacement de la caméra sur le rail. |
-| **Contraintes**                    | Intégration du système Bluetooth relié au rail. |
+| **Objectif**                      | Déplacement Bluetooth grâce au téléphone.   |
+| **Description**                    | Application connectée par Bluetooth permerttant de gérer le déplacement de la caméra sur le rail. |
+| **Contraintes**                    | Intégration du système Bluetooth relié au rail.  |
 | **Niveau de priorité**             | Haute priorité. |
 
-| **Fonction 3 :** |          Développement d'un plug in de commande système OBS           |
+| **Fonction 4 :** |          Développement d'un plug in de commande système OBS           |
 |------------------------------------|--------------------------------------|
 | **Objectif**                      | Automatisation des déplacements du rail de traveling grâce à des raccourcis de scènes OBS (Depuis un stream Deck ?) |
 | **Description**                    | Un plug in OBS permettant de géer un type de déplacement (en avant, en arrière, de X centimètre, à une vitesse Y) uniquement grâce à un raccourci déini en amont sur OBS. |
