@@ -28,7 +28,8 @@ Toute personne souhaitant réaliser des vidéos ou en ayant l'utilité peut l'ut
 
 Ici vous publierez le poster de votre projet.
 
-![Poster projet](images/poster.jpg)
+[Voir le poster du projet (PDF)](images/POSTER-Projet-06.pdf)
+
 
 ## Vidéo
 
