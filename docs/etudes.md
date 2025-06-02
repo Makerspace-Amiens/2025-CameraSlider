@@ -9,6 +9,7 @@ title: Choix techniques
 
 **Un rail profilé de 1m20**
 Nous avons choisi un rail profilé en aluminium de 1,20 mètre, car cette longueur correspond à celle d’un bureau standard. Cela permet d’installer facilement le rail sur une table dans le médiaLab de l'école, sans nécessiter d’installation fixe au sol. Ce format est à la fois pratique, stable et adapté à la majorité des plans de tournage en intérieur.
+![Texte alternatif](images/rail.jpg)
 
 **3 roues V-Slot**
 Les roues V-Slot ont été retenues car elles sont spécialement conçues pour s'adapter aux rainures en "V" des rails profilés en aluminium que nous utilisons.
@@ -19,11 +20,13 @@ Nous avons choisi d'en installer trois (et non quatre), pour plusieurs raisons :
 - Meilleure facilité de réglage : cela simplifie l'ajustement du plateau roulant, car trois points définissent toujours un plan stable (contrairement à quatre qui peuvent générer du jeu ou des tensions mécaniques).
 
 - Montage plus simple et fluide, particulièrement adapté à une structure légère comme celle que nous construisons.
+![Texte alternatif](images/roue.jpg)
 
 **ESP-WROOM-32**
 Nous avons opté pour le microcontrôleur ESP-WROOM-32 car il est disponible à l'école et dispose de fonctionnalités sans fil intégrées, notamment le Bluetooth.
 Ce choix nous permet de contrôler le rail à distance via un smartphone, ce qui est idéal puisque de nos jours tout le monde a facilement accès à un téléphone.
 Nous utilisons l’application RemoteXY, qui permet de créer une interface de contrôle personnalisée pour piloter le moteur à partir du téléphone, en tirant parti des capacités Bluetooth de l’ESP32.
+![Texte alternatif](images/esp32.jpg)
 
 **Moteur pas à pas 17HE15-1504S**
 Nous avons choisi un moteur pas à pas NEMA 17 (modèle 17HE15-1504S) pour motoriser le déplacement du chariot sur le rail.
