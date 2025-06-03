@@ -17,21 +17,17 @@ Ce boîtier contient l’ensemble des composants électroniques :
 - ainsi que le moteur pas à pas.
 Les composants sont soudés ensemble et organisés de manière compacte.
 Des ouvertures ont été prévues dans le boîtier : pour laisser passer la courroie de chaque côté, et pour permettre de connecter un câble USB à l’ESP32.
-
 ![Texte alternatif](images/elec.jpg)
 
 Sur le plateau mobile, on retrouve :
 - un support universel pour caméra,
 - les roues V-Slot, montées à l’aide de vis et entretoises excentriques, pour un ajustement précis,
 - la courroie, fixée aux deux extrémités du plateau pour permettre la traction.
-
-![Texte alternatif](images/plateau.jpg)
-
-![Texte alternatif](images/plateau2.jpg)
+![Texte alternatif](images/Plateau.jpg)
+![Texte alternatif](images/Plateau2.jpg)
 
 À l’extrémité opposée du moteur se trouve un carter de fin de rail.
 Ce carter a deux fonctions :
 - Empêcher le plateau de sortir du rail,
 - Maintenir en place une poulie, qui permet de retourner la courroie vers le plateau. 
-
-![Texte alternatif](images/carter.jpg)
+![Texte alternatif](images/Carter.jpg)
