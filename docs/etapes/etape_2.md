@@ -7,19 +7,27 @@ nav_order: 2
 
 # Assemblage
 
-Après la préparation des matériaux, l'étape suivante est l'assemblage.
+Une fois les matériaux préparés, l’étape suivante consiste à assembler les différentes pièces.
+Pour mieux illustrer cette phase, voici des photos de notre prototype assemblé, accompagnées de quelques explications.
 
-## Étapes d'Assemblage
+Ce boîtier contient l’ensemble des composants électroniques :
+- la carte ESP32-WROOM,
+- le driver TMC2209,
+- l’alimentation,
+- ainsi que le moteur pas à pas.
+Les composants sont soudés ensemble et organisés de manière compacte.
+Des ouvertures ont été prévues dans le boîtier : pour laisser passer la courroie de chaque côté, et pour permettre de connecter un câble USB à l’ESP32.
+![Texte alternatif](images/elec.jpg)
 
-1. **Organisation** : Organisez tous les composants préparés.
-2. **Assemblage Initial** : Commencez par assembler les pièces principales.
-3. **Fixation** : Fixez solidement les pièces ensemble en utilisant les outils appropriés.
+Sur le plateau mobile, on retrouve :
+- un support universel pour caméra,
+- les roues V-Slot, montées à l’aide de vis et entretoises excentriques, pour un ajustement précis,
+- la courroie, fixée aux deux extrémités du plateau pour permettre la traction.
+![Texte alternatif](images/plateau.jpg)
+![Texte alternatif](images/plateau2.jpg)
 
-## Vérifications à Effectuer
-
-- Assurez-vous que toutes les pièces sont correctement alignées.
-- Vérifiez la stabilité et la solidité de l'assemblage.
-
-## Problèmes Communs et Solutions
-
-- Si des pièces ne s'emboîtent pas correctement, vérifiez leur alignement et leur dimension
+À l’extrémité opposée du moteur se trouve un carter de fin de rail.
+Ce carter a deux fonctions :
+- Empêcher le plateau de sortir du rail,
+- Maintenir en place une poulie, qui permet de retourner la courroie vers le plateau. 
+![Texte alternatif](images/carter.jpg)
