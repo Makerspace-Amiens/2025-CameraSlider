@@ -33,14 +33,10 @@ Vous pouvez trouver ci_dessous, le poster de notre projet.
 
 ## Vidéo
 
-Ici vous publierez la vidéo de votre projet. 
-- Moins de 1min30
-- Présentation du projet 
-- Des explication du fonctionnement du projet
-- Des vues du projet / Prototype / Application etc... 
-- Des plans du fonctionnement (même basique ou des éléments séparés)
-- Une conclusion
-- Si en stockage local : <50mo
+<video controls width="700">
+  <source src="https://cloudlasalle-my.sharepoint.com/personal/audric_santerre_etu_unilasalle_fr/_layouts/15/stream.aspx?id=%2Fpersonal%2Faudric%5Fsanterre%5Fetu%5Funilasalle%5Ffr%2FDocuments%2FPi%C3%A8ces%20jointes%2FVide%CC%81o%5FProjet%5FI3%2Emp4&ct=1749739647055&or=OWA%2DNT%2DMail&cid=b2ef88b5%2D9221%2D3a18%2Dbbba%2D4811b066ca94&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E927cef4f%2D03f2%2D4de2%2Da649%2Dad48cf5ec798" type="video/mp4">
+</video>
+
 
 <video src="images/intro_amiens.mp4" controls title="Title"  style="width: 100%;"></video>
 
