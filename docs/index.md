@@ -33,9 +33,6 @@ Vous pouvez trouver ci_dessous, le poster de notre projet.
 
 ## Vidéo
 
-<video controls width="700">
-  <source src="https://drive.google.com/uc?export=download&id=1XYZabc1234567" type="video/mp4">
-  Votre navigateur ne supporte pas la vidéo.
-</video>
+<iframe src="https://drive.google.com/file/d/1zyOwlfVzQDRO-NdNRbJWRE-A38j-RWFA/preview" width="700" height="400" allow="autoplay"></iframe>
 
 ---
