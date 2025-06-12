@@ -34,7 +34,8 @@ Vous pouvez trouver ci_dessous, le poster de notre projet.
 ## Vidéo
 
 <video controls width="700">
-  <source src="https://cloudlasalle-my.sharepoint.com/personal/solene_cordier_etu_unilasalle_fr/_layouts/15/stream.aspx?id=%2Fpersonal%2Fsolene%5Fcordier%5Fetu%5Funilasalle%5Ffr%2FDocuments%2FVide%CC%81o%5FProjet%5FI3%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8fe3c5e7%2D8fd0%2D4961%2Db78e%2Dec60cdf271af" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=download&id=1XYZabc1234567" type="video/mp4">
+  Votre navigateur ne supporte pas la vidéo.
 </video>
 
 ---
